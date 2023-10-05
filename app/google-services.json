@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "174971282566",
+    "firebase_url": "https://foodbae-7123a-default-rtdb.firebaseio.com",
+    "project_id": "foodbae-7123a",
+    "storage_bucket": "foodbae-7123a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174971282566:android:160cea5c63b7c49699dd07",
+        "android_client_info": {
+          "package_name": "com.foodbae"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174971282566-t14khkuqmiti6tvhgcjpdos1ocmsj3on.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXRWOOiFqB6gA1jWbgq867QYoKMeKz0KI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174971282566-t14khkuqmiti6tvhgcjpdos1ocmsj3on.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

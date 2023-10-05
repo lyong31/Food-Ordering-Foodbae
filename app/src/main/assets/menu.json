@@ -1,0 +1,328 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "type_feeling": "happy",
+      "image_feeling" :"https://firebasestorage.googleapis.com/v0/b/foodbae-7123a.appspot.com/o/Album%20Feeling%2Fhappy.jpeg?alt=media&token=d42d2fb4-b85c-46d9-938c-4181f77c75b5",
+      "results":[
+        {
+          "type_menu_id": "11",
+          "feeling": "happy",
+          "type_menu": "foods",
+          "menu_list" : [
+            {
+              "menu_id": "foods111",
+              "menu_name": "Salmon",
+              "menu_description": "high antioxidant to maintain stress levek",
+              "menu_image" : "https://firebasestorage.googleapis.com/v0/b/foodbae-7123a.appspot.com/o/Album%20Menu%20Happy%2FFoods%2Fsalmon.jpeg?alt=media&token=5a68d2dd-8a70-4f5e-9c17-0b9b7204a712",
+              "menu_price" : 0,
+              "menu_size"  : " "
+            },
+            {
+              "menu_id": "foods112",
+              "menu_name": "Chocolate Tart",
+              "menu_description": "Tryptophan, an amino acid present in small quantities in chocolate, is linked to the production of serotonin, a neurotransmitter that produces feelings of happiness",
+              "menu_image" : "https://firebasestorage.googleapis.com/v0/b/foodbae-7123a.appspot.com/o/Album%20Menu%20Happy%2FFoods%2Fchocolate%20tart.jpeg?alt=media&token=096ba55d-eead-4c3c-849d-2e4f54d5873f",
+              "menu_price" : 0,
+              "menu_size"  : " "
+            },
+            {
+              "menu_id": "foods113",
+              "menu_name": "Grilled Oysters",
+              "menu_description": "helps combat mental decline, anxiety and depression",
+              "menu_image" : "https://firebasestorage.googleapis.com/v0/b/foodbae-7123a.appspot.com/o/Album%20Menu%20Happy%2FFoods%2Fgrilled%20oysters.jpeg?alt=media&token=3fb12be9-0a0d-4189-b239-81dc71be8e8c",
+              "menu_price" : 0,
+              "menu_size"  : " "
+            },
+            {
+              "menu_id": "foods114",
+              "menu_name": "Quinoa Upma",
+              "menu_description": "help with cholesterol and blood sugar levels",
+              "menu_image" : "https://firebasestorage.googleapis.com/v0/b/foodbae-7123a.appspot.com/o/Album%20Menu%20Happy%2FFoods%2Fquinoa%20upma.jpeg?alt=media&token=d7681a22-2814-4fae-bf0c-2fab4e007013",
+              "menu_price" : 0,
+              "menu_size"  : " "
+            }
+          ]
+        },
+        {
+          "type_menu_id": "12",
+          "feeling": "happy",
+          "type_menu": "drinks",
+          "menu_list" : [
+            {
+              "menu_id": "drinks121",
+              "menu_name": "Banana Cocktail",
+              "menu_description": "Bananas are a happy fruit as they have tryptophan, which gets converted into serotonin in the body, known to make you relax, improve your mood and generally make you feel happier",
+              "menu_image" : "https://firebasestorage.googleapis.com/v0/b/foodbae-7123a.appspot.com/o/Album%20Menu%20Happy%2FDrinks%2Fbanana_cocktail.jpeg?alt=media&token=590148d6-6a59-4eb3-b90a-75a52a58ed16",
+              "menu_price" : 13,
+              "menu_size"  : "400"
+            },
+            {
+              "menu_id": "drinks122",
+              "menu_name": "Watermelon Banana Smoothie",
+              "menu_description": "Watermelon contains citrulline, an amino acid that helps open up blood vessels and boost bloodflow",
+              "menu_image" : "https://firebasestorage.googleapis.com/v0/b/foodbae-7123a.appspot.com/o/Album%20Menu%20Happy%2FDrinks%2Fwatermelon%20and%20banana%20juice.jpeg?alt=media&token=ef2aaca6-6271-47d9-a205-67b5b0f894ad",
+              "menu_price" : 14,
+              "menu_size"  : "400"
+            },
+            {
+              "menu_id": "drinks123",
+              "menu_name": "Berrie Patch Cocktail",
+              "menu_description": "",
+              "menu_image" : "https://firebasestorage.googleapis.com/v0/b/foodbae-7123a.appspot.com/o/Album%20Menu%20Happy%2FDrinks%2Fberrie%20patch%20cocktail.jpeg?alt=media&token=37014d93-7d72-4cf1-88a1-a6ea6f027d7e",
+              "menu_price" : 0,
+              "menu_size"  : ""
+            },
+            {
+              "menu_id": "drinks124",
+              "menu_name": "Vanilla Milkshake",
+              "menu_description": "It's called the Happiness Milkshake because the combo of cocoa and banana is an excellent antidepressant.",
+              "menu_image" : "https://firebasestorage.googleapis.com/v0/b/foodbae-7123a.appspot.com/o/Album%20Menu%20Happy%2FDrinks%2Fmlikshake.jpeg?alt=media&token=79e3cf10-786a-4920-9ee9-6f309d663982",
+              "menu_price" : 15,
+              "menu_size"  : "400"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "type_feeling": "angry",
+      "image_feeling" :"https://firebasestorage.googleapis.com/v0/b/foodbae-7123a.appspot.com/o/Album%20Feeling%2Fangry.jpeg?alt=media&token=c4a9c322-65f5-4ac5-b396-8a60193371e7",
+      "results":[
+        {
+          "type_menu_id": "21",
+          "feeling": "angry",
+          "type_menu": "foods",
+          "menu_list" : [
+            {
+              "menu_id": "foods211",
+              "menu_name": "Peanut Butter Banana Toast",
+              "menu_description": "Bananas contain folic acid that can help the brain produce 5-HT, which helps dispel irritable emotions and pessimism",
+              "menu_image" : "https://firebasestorage.googleapis.com/v0/b/foodbae-7123a.appspot.com/o/Album%20Menu%20Angry%2FFood%2Fpeanut%20banana%20roasted%20toast.jpeg?alt=media&token=9b22fa92-0e79-4903-a64b-423d206a8424",
+              "menu_price" : 0,
+              "menu_size"  : " "
+            },
+            {
+              "menu_id": "foods212",
+              "menu_name": "Fruit Salad",
+              "menu_description": "Citrus fruits and avocado which contain B complex vitamins for anger management",
+              "menu_image" : "https://firebasestorage.googleapis.com/v0/b/foodbae-7123a.appspot.com/o/Album%20Menu%20Angry%2FFood%2Ffruit%20salad.jpeg?alt=media&token=3de528fe-07cc-416a-a0f5-addcefd1d92d",
+              "menu_price" : 0,
+              "menu_size"  : " "
+            },
+            {
+              "menu_id": "foods213",
+              "menu_name": "Banana Pudding",
+              "menu_description": "boost mood with something light and banana",
+              "menu_image" : "https://firebasestorage.googleapis.com/v0/b/foodbae-7123a.appspot.com/o/Album%20Menu%20Angry%2FFood%2Fbanana%20pudding.jpeg?alt=media&token=e5117272-9138-47aa-8341-1452bf3e7cd3",
+              "menu_price" : 0,
+              "menu_size"  : " "
+            },
+            {
+              "menu_id": "foods214",
+              "menu_name": "Melting Potatoes",
+              "menu_description": "potato may increase availability of the feel-good chemical serotonin in your brain",
+              "menu_image" : "https://firebasestorage.googleapis.com/v0/b/foodbae-7123a.appspot.com/o/Album%20Menu%20Angry%2FFood%2Fmelting%20potatoes.jpeg?alt=media&token=1e15f373-db4c-4e94-badc-827e822be405",
+              "menu_price" : 0,
+              "menu_size"  : " "
+            }
+          ]
+        },
+        {
+          "type_menu_id": "22",
+          "feeling": "angry",
+          "type_menu": "drinks",
+          "menu_list" : [
+            {
+              "menu_id": "drinks221",
+              "menu_name": "Banana smoothie",
+              "menu_description": "Bananas contain dopamine that enhances your mood and are also a rich source of vitamins A, B, C and B6, which help the nervous system",
+              "menu_image" : "https://firebasestorage.googleapis.com/v0/b/foodbae-7123a.appspot.com/o/Album%20Menu%20Angry%2FDrinks%2Fbanana%20smoothie.jpeg?alt=media&token=3496c011-6084-4d48-a56d-5216551d8475",
+              "menu_price" : 11,
+              "menu_size"  : "500"
+            },
+            {
+              "menu_id": "drinks222",
+              "menu_name": "vanilla coconut milk",
+              "menu_description": "coconut milk produces relief from anxiety.",
+              "menu_image" : "https://firebasestorage.googleapis.com/v0/b/foodbae-7123a.appspot.com/o/Album%20Menu%20Angry%2FDrinks%2Fvanilla%20coconut%20milk.jpeg?alt=media&token=6bd4e060-3f43-4100-845d-d0830dcd035b",
+              "menu_price" : 9,
+              "menu_size"  : "200"
+            },
+            {
+              "menu_id": "drinks223",
+              "menu_name": "Coconut Golden Milk",
+              "menu_description": "consume coconut milk lowered their LDL or \"bad” cholesterol while their HDL or \"good” cholesterol increased. Healthy cholesterol levels are important for heart health especially anger management.",
+              "menu_image" : "https://firebasestorage.googleapis.com/v0/b/foodbae-7123a.appspot.com/o/Album%20Menu%20Angry%2FDrinks%2Fcoconut%20golden%20milk.jpeg?alt=media&token=1d4fe09d-c063-4f04-86ea-304d21dc7c27",
+              "menu_price" : 15,
+              "menu_size"  : "600"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "type_feeling": "fear",
+      "image_feeling" :"https://firebasestorage.googleapis.com/v0/b/foodbae-7123a.appspot.com/o/Album%20Feeling%2Ffear.jpeg?alt=media&token=7046ee53-8f92-4433-a423-5569dfd3ac31",
+      "results":[
+        {
+          "type_menu_id": "31",
+          "feeling": "fear",
+          "type_menu": "foods",
+          "menu_list" : [
+            {
+              "menu_id": "foods331",
+              "menu_name": "Scrambled Eggs",
+              "menu_description": "Eggs contain tryptophan, an amino acid that helps create serotonin. Serotonin is thought to improve brain function and relieve anxiety.",
+              "menu_image" : "https://firebasestorage.googleapis.com/v0/b/foodbae-7123a.appspot.com/o/Album%20Menu%20Fear%2FFoods%2Fscramble%20eggs.jpeg?alt=media&token=922e8e6f-d709-41c1-930a-f880c0312b81",
+              "menu_price" : 0,
+              "menu_size"  : " "
+            },
+            {
+              "menu_id": "foods332",
+              "menu_name": "Chinese Tomato Egg Stir Fry",
+              "menu_description": "Intake of tomato juice alleviates anxiety due to presence of an important carotenoid i.e",
+              "menu_image" : "https://firebasestorage.googleapis.com/v0/b/foodbae-7123a.appspot.com/o/Album%20Menu%20Fear%2FFoods%2Fchinese%20tomato%20egg%20stir%20fry.jpeg?alt=media&token=fbc7d3b0-9932-4323-8aed-e208e248f09f",
+              "menu_price" : 0,
+              "menu_size"  : " "
+            },
+            {
+              "menu_id": "foods333",
+              "menu_name": "Garlic Butter Steak",
+              "menu_description": "meat consumption is associated with lower levels of depression and anxiety.",
+              "menu_image" : "https://firebasestorage.googleapis.com/v0/b/foodbae-7123a.appspot.com/o/Album%20Menu%20Fear%2FFoods%2Fgarlice%20butter%20steak.jpeg?alt=media&token=ae5f3d7a-9a47-4f82-8582-76dbc34f466b",
+              "menu_price" : 0,
+              "menu_size"  : " "
+            },
+            {
+              "menu_id": "foods334",
+              "menu_name": "Honey Roasted Almonds",
+              "menu_description": "magnesium in  almond may be an effective treatment for anxiety-related symptoms,",
+              "menu_image" : "https://firebasestorage.googleapis.com/v0/b/foodbae-7123a.appspot.com/o/Album%20Menu%20Fear%2FFoods%2Fhoney%20roasted%20almonds.jpeg?alt=media&token=a9577f63-b480-4b79-ab65-44f0348a02c0",
+              "menu_price" : 0,
+              "menu_size"  : " "
+            }
+          ]
+        },
+        {
+          "type_menu_id": "32",
+          "feeling": "fear",
+          "type_menu": "drinks",
+          "menu_list" : [
+            {
+              "menu_id": "drinks321",
+              "menu_name": "Mint and Lemon Juice",
+              "menu_description": "Lemon juice gives your body an instant dose of energy when it enters your digestive tract, and it also helps reduce anxiety and depression.",
+              "menu_image" : "https://firebasestorage.googleapis.com/v0/b/foodbae-7123a.appspot.com/o/Album%20Menu%20Fear%2FDrinks%2Fmint%20and%20lemon%20juice.jpeg?alt=media&token=668247d2-e353-4f52-856e-b4cb22ad2244",
+              "menu_price" : 13,
+              "menu_size"  : "260"
+            },
+            {
+              "menu_id": "drinks322",
+              "menu_name": "Green Tea",
+              "menu_description": "Green tea is high in L-theanine, an amino acid that might reduce anxiety.",
+              "menu_image" : "https://firebasestorage.googleapis.com/v0/b/foodbae-7123a.appspot.com/o/Album%20Menu%20Fear%2FDrinks%2Fgreentea.jpeg?alt=media&token=ed820348-74de-42c3-adcb-faf419d1c8d7",
+              "menu_price" : 3,
+              "menu_size"  : "250"
+            },
+            {
+              "menu_id": "drinks323",
+              "menu_name": "Yogurt Milkshake",
+              "menu_description": "If you suffer from anxiety, yogurt is a great food to include in your diet. The probiotics, or healthy bacteria, found in some types of yogurt may improve several aspects of your well-being, including mental health ( 34 , 35 , 36 )",
+              "menu_image" : "https://firebasestorage.googleapis.com/v0/b/foodbae-7123a.appspot.com/o/Album%20Menu%20Fear%2FDrinks%2Fyogurt.jpeg?alt=media&token=21fc8c90-9a9e-409c-bff5-f5c6f66af873",
+              "menu_price" : 9,
+              "menu_size"  : "300"
+            },
+            {
+              "menu_id": "drinks324",
+              "menu_name": "Matcha Milk",
+              "menu_description": "A cup of antioxidant-rich matcha milk before bed can have positive effects on your anxiety levels, metabolism , and overall health",
+              "menu_image" : "https://firebasestorage.googleapis.com/v0/b/foodbae-7123a.appspot.com/o/Album%20Menu%20Fear%2FDrinks%2Fmatcha%20milk.jpeg?alt=media&token=d0a07f2e-647b-4c0a-9a28-7fe693d25f99",
+              "menu_price" : 10,
+              "menu_size"  : "300"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "type_feeling": "sad",
+      "image_feeling" :"https://firebasestorage.googleapis.com/v0/b/foodbae-7123a.appspot.com/o/Album%20Feeling%2Fsad.jpeg?alt=media&token=5370fd98-fe72-4066-8bd6-57bebc2f2f67",
+      "results":[
+        {
+          "type_menu_id": "41",
+          "feeling": "sad",
+          "type_menu": "foods",
+          "menu_list" : [
+            {
+              "menu_id": "foods411",
+              "menu_name": "Chocolates",
+              "menu_description": "sweet chocolate always associated with mood boos",
+              "menu_image" : "https://firebasestorage.googleapis.com/v0/b/foodbae-7123a.appspot.com/o/Album%20Menu%20Sad%2FFoods%2Fchocolate.jpeg?alt=media&token=3486f5a5-d554-407d-bc37-fefbf57df5b5",
+              "menu_price" : 0,
+              "menu_size"  : " "
+            },
+            {
+              "menu_id": "foods412",
+              "menu_name": "Fibre Meal",
+              "menu_description": "higher dietary fiber intake is associated with a lower risk of reporting symptoms of depression overall",
+              "menu_image" : "@drawable/salmon.jpeg",
+              "menu_price" : 0,
+              "menu_size"  : " "
+            },
+            {
+              "menu_id": "foods413",
+              "menu_name": "Chickpea and Barley Salad",
+              "menu_description": "help improve the mood and protect against depression by increasing serotonin in the brain",
+              "menu_image" : "https://firebasestorage.googleapis.com/v0/b/foodbae-7123a.appspot.com/o/Album%20Menu%20Sad%2FFoods%2Fchickpea%20and%20barley%20salad.jpeg?alt=media&token=4a45ea66-a795-4ec4-91ba-8bf0962be97d",
+              "menu_price" : 0,
+              "menu_size"  : " "
+            },
+            {
+              "menu_id": "foods414",
+              "menu_name": "Caramel Nut Tart",
+              "menu_description": "One study found that depression scores were 26% lower among those who consumed about 1/4 cup of walnuts per day",
+              "menu_image" : "https://firebasestorage.googleapis.com/v0/b/foodbae-7123a.appspot.com/o/Album%20Menu%20Sad%2FFoods%2Fcaramel%20nut%20tart.jpeg?alt=media&token=b5c28da8-6d80-4aed-8f75-2cc7b1bac973",
+              "menu_price" : 0,
+              "menu_size"  : " "
+            }
+          ]
+        },
+        {
+          "type_menu_id": "42",
+          "feeling": "sad",
+          "type_menu": "drinks",
+          "menu_list" : [
+            {
+              "menu_id": "drinks421",
+              "menu_name": "Fancy Berries",
+              "menu_description": "Blueberries and blueberry juice. Associated with having a more positive mood",
+              "menu_image" : "https://firebasestorage.googleapis.com/v0/b/foodbae-7123a.appspot.com/o/Album%20Menu%20Sad%2FDrinks%2Ffancy%20berry.jpeg?alt=media&token=695628b3-8a59-4de8-b0e3-2aa7dc220d15",
+              "menu_price" : 17,
+              "menu_size"  : "359"
+            },
+            {
+              "menu_id": "drinks422",
+              "menu_name": "Blended Oat",
+              "menu_description": "Oatmeal and other slow-burning complex carbohydrates impact serotonin levels, which are linked to anxiety",
+              "menu_image" : "https://firebasestorage.googleapis.com/v0/b/foodbae-7123a.appspot.com/o/Album%20Menu%20Sad%2FDrinks%2Fblended%20oat.jpeg?alt=media&token=9f03b677-497d-4558-a52f-ba9319d8aa24",
+              "menu_price" : 7,
+              "menu_size"  : "200"
+            },
+            {
+              "menu_id": "drinks423",
+              "menu_name": "Soya",
+              "menu_description": "light-to-moderate intake of soy food may reduce the incidence of depressive symptoms",
+              "menu_image" : "https://firebasestorage.googleapis.com/v0/b/foodbae-7123a.appspot.com/o/Album%20Menu%20Sad%2FDrinks%2Fsoya.jpeg?alt=media&token=d5a437d4-7e72-4612-bd9b-073d3bcee640",
+              "menu_price" : 3,
+              "menu_size"  : "500"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

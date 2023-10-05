@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Foodbae</string>
+    <string name="your_web_client_id">174971282566-t14khkuqmiti6tvhgcjpdos1ocmsj3on.apps.googleusercontent.com</string>
+    <string name="title_button_screen">Get started</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_cart">Cart</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_order">Order</string>
+    <string name="menu_location">Shop Location</string>
+    <string name="menu_feedback">Feedback</string>
+    <string name="menu_sign_out">Sign Out</string>
+
+    <!--String Mix-->
+    <string name="quote">Your mood companion</string>
+    <string name="create_account">Create new Account</string>
+    <string name="menu_food">Foods</string>
+    <string name="menu_drink">Drinks</string>
+    <string name="list_menu">List Menu</string>
+    <string name="status_order_one">Yeay!</string>
+    <string name="status_order_two">Order Confirm</string>
+    <string name="to_delivery">Delivery to Home</string>
+
+    <!--String For Get Data-->
+    <string name="get_food">Menu : %s</string>
+    <string name="get_quantity">Quantity : %s</string>
+    <string name="get_price">Price : %s</string>
+    <string name="get_total_price">Total Price : RM %s.00</string>
+    <string name="get_date">Date ordered : %s</string>
+    <string name="get_rm">RM: %s.00 </string>
+    <string name="get_size">Size: %s ml</string>
+    <string name="get_order_cart">Your order (%s)</string>
+
+    <!--String Title Toolbar -->
+    <string name="title_toolbar_profile">My Profile</string>
+    <string name="title_toolbar_order">My Order</string>
+    <string name="title_toolbar_home">How are your feeling today</string>
+
+    <!--String Title Button-->
+    <string name="title_button_logout">Sign Out</string>
+    <string name="title_button_login">Login</string>
+    <string name="title_button_register">Sign Up</string>
+    <string name="title_button_submit">Submit</string>
+    <string name="title_button_add_to_cart">Add to Cart</string>
+    <string name="title_button_order">Place Order</string>
+    <string name="title_button_change_location">Change Location</string>
+
+    <!--String For Profile and Auth-->
+    <string name="view_username">Username</string>
+    <string name="view_email">Email</string>
+    <string name="view_password">Password</string>
+    <string name="view_contact">Contact</string>
+    <string name="view_postal_code">Postal Code</string>
+    <string name="view_state">State</string>
+    <string name="view_address">Address</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+    <string name="title_activity_menu">MenuActivity</string>
+
+    <string name="title_activity_maps">MapsActivity</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
